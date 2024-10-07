@@ -6,9 +6,8 @@ Proyecto de Consolidación de Datos y Desarrollo de Aplicación Web Interactiva 
 - Nombre del Proyecto: sisApp
 - Descripción Breve: Se crea un Sistema de Indicadores Sociales soportado por una base de datos relacional y visualizada a través de un aplicativo web.
 - Tecnologías: PostgresSQL, Git, Python, R.
-- Requisitos del Sistema:  (Versiones de software necesarias: PostgreSQL, Git, etc.)
+- Requisitos del Sistema:  (Versiones de software necesarias)
   - PostgreSQL 16
-  - Git Free 3.14
   
 
 ### 2. Documentación técnica
